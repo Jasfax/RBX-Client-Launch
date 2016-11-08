@@ -1,0 +1,7 @@
+[] - Used to improve look and easier navigation
+
+[ roblox-player: ]
+  This is an URI (send request to open the roblox client from a website)
+  The "roblox-play" is the name of the HKEY roblox uses, you can find this in regedit (on windows).
+  
+  More information about URIs can be found here: https://msdn.microsoft.com/en-us/library/aa767916(v=vs.85).aspx
