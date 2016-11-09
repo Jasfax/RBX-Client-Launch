@@ -1,7 +1,7 @@
 /* Configure */
 var targetID = "rbxLuanchString"; // Target to retrieve the place ID. (I suggest you keep it as is)
 var hrefTargetID = "rbxLuanchHref"; // Target to find where to replace the href.
-var beforeText "Launch Game ID: "; // Text before the place ID in the targetd element with the href. (e.g. "Launch Game ID: 95206881")
+var beforeText = "Launch Game ID: "; // Text before the place ID in the targetd element with the href. (e.g. "Launch Game ID: 95206881")
 /* Misc. */
 var c = "+"; // c stands for connector
 
